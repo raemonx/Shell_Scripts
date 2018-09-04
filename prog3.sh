@@ -3,7 +3,7 @@ $a
 $b
 echo -n "Enter 1st number"
 read a
-echo -n "[\033[3m]] Enter 2nd number"
+echo -n "Enter 2nd number"
 read b
 echo -n "Addition is `expr $a + $b`" 
 echo -n "Subtraction is `expr $a - $b`" 
