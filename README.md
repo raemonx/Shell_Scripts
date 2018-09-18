@@ -5,3 +5,4 @@ Basic Shell Scripts programs
 ## prog3.sh - Add,Sub,Mul,Div,Mod of two numbers
 ## prog4.sh - If else then fi
 ## eval1.sh - Find average grade of 5 subjects
+## prog5.sh - Switch case example
