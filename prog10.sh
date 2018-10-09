@@ -1,0 +1,17 @@
+#! /bin/bash
+echo "You entered : $1"
+echo "You entered : $2"
+echo "You entered : $3"
+echo "You entered : $4"
+echo "You entered : $5"
+echo "You entered : $6"
+echo "You entered : $7"
+echo "You entered : $8"
+echo "You entered : $9"
+echo "You entered : ${10}"
+echo "You entered : ${11}"
+echo "You entered : ${12}"
+
+echo "you entered $*"
+echo "no of arguments $#"
+echo "you entered $@"
