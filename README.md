@@ -14,3 +14,9 @@ Basic Shell Scripts programs
 ## prog10.sh - How to enter command line
 ## eval3.sh - Make a smart calculator
 ## facto.sh - Show use of factorial
+## prog11.sh - Find roots of quadratic equation
+## prog12.sh - Smart calculator using floats 
+## prog13.sh - factorial using reccursion
+## eval4.sh - How to enter command line
+## eval5.sh - Smart Calculator using functions
+
